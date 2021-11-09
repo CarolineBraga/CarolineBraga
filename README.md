@@ -24,8 +24,3 @@
     
   ![Snake animation](https://github.com/CarolineBraga/CarolineBraga/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-### 📂 Principais repositórios:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineBraga&repo=C)](https://github.com/CarolineBraga/C)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineBraga&repo=java)](https://github.com/CarolineBraga/java)
