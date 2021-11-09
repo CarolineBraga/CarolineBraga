@@ -1,9 +1,9 @@
-## Olá!
+<div align="center">
+<h1> Olá! </h1>
 
 👩‍💻 Estudo engenharia de computação no CEFET/RJ <br>
 🖥️ Atualmente sou estagiária de infraestrutura de TI
-
-<div> 
+  
   <a href = "mailto:caroline_braga@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolineobraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -18,9 +18,14 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-<div align="center"><br>
+<div align="left"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineBraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineBraga&layout=compact&langs_count=7&theme=radical"/>
     
   ![Snake animation](https://github.com/CarolineBraga/CarolineBraga/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+### 📂 Principais repositórios:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineBraga&repo=C)](https://github.com/CarolineBraga/C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarolineBraga&repo=java)](https://github.com/CarolineBraga/java)
