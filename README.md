@@ -3,15 +3,21 @@
 
 👩‍💻 Estudo engenharia de computação no CEFET/RJ <br>
 🖥️ Atualmente trabalho como DevOps/SRE Jr na Cia. Hering <br>
-📜 Certificada como Google Cloud Associate Cloud Engineer (2022)
   
   <a href = "mailto:caroline_braga@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolineobraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 🚀 Hard Skills (nível júnior):
+### 🚀 Certificações:
+<div style="display: inline_block">
+  <a href = "https://www.credly.com/badges/f664f8f8-99ad-4bb5-a531-70156a113818/public_url"><img align="center" alt="Terraform" height="50" width="60" src="terraform-associate.png"></a>
+  <a href = "https://www.credential.net/dd1754fc-e2fd-40ce-b967-4876801ce889"><img align="center" alt="GCP" height="50" width="60" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/56533455"></a>
+</div>
+
+### 🚀 Hard Skills:
 <div style="display: inline_block">
   <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
@@ -24,8 +30,7 @@
 ### 📖 Estudando:
 <div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
-  <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </div>
 
 <div align="left"><br>
