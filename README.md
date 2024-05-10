@@ -2,7 +2,7 @@
 <h1> Olá! </h1>
 
 👩‍💻 Estudo engenharia de computação no CEFET/RJ <br>
-🖥️ Atualmente trabalho como DevOps/SRE Jr na Cia. Hering <br>
+🖥️ Atualmente trabalho como Analista DevOps II no Grupo Boticário <br>
   
   <a href = "mailto:caroline_braga@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolineobraga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -31,11 +31,4 @@
 <div style="display: inline_block">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-</div>
-
-<div align="left"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolineBraga&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineBraga&layout=compact&langs_count=7&theme=radical"/>
-    
-  ![Snake animation](https://github.com/CarolineBraga/CarolineBraga/blob/output/github-contribution-grid-snake.svg)
 </div>
